@@ -1,4 +1,4 @@
-# gpt
+#TUBAASİSTAN
 
 Bu depo, TUBA sesli asistanı için çalışan bir metin-tabanlı simülasyon içerir. Amaç,
 çevrimdışı mimariyi gerçek zamanlı akışa benzer şekilde uçtan uca test edebilmektir.
